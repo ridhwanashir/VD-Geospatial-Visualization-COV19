@@ -30,6 +30,6 @@ province_id,province_name,island,iso_code,capital_city,population,population_kms
 29,Sulawesi Tengah,Sulawesi,ST,Palu,2831283,42,756,120.039.368,-0.898096
 30,Sulawesi Tenggara,Sulawesi,SG,Kendari,2448081,67,330,121.959.229,-3.697.078
 31,Sulawesi Utara,Sulawesi,SA,Manado,2386604,171,2296,124.725.037,1.277.055
-32,Sumatra Barat,Sumatra,SB,Padang,5131900,121,2398,100.118.408,-0.186767
-33,Sumatra Selatan,Sumatra,SS,Palembang,7941500,93,1585,104.710.693,-3.107.606
-34,Sumatra Utara,Sumatra,SU,Medan,13766851,189,2296,98.712.158,323.924
+32,Sumatera Barat,Sumatra,SB,Padang,5131900,121,2398,100.118.408,-0.186767
+33,Sumatera Selatan,Sumatra,SS,Palembang,7941500,93,1585,104.710.693,-3.107.606
+34,Sumatera Utara,Sumatra,SU,Medan,13766851,189,2296,98.712.158,323.924
